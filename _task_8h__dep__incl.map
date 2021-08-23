@@ -1,0 +1,11 @@
+<map id="inc/Task.h" name="inc/Task.h">
+<area shape="rect" id="node1" title=" " alt="" coords="203,5,285,32"/>
+<area shape="rect" id="node2" href="$_map_8h.html" title=" " alt="" coords="362,80,441,107"/>
+<area shape="rect" id="node5" href="$_reduce_8h.html" title=" " alt="" coords="22,80,119,107"/>
+<area shape="rect" id="node7" href="$_shuffle_8h.html" title=" " alt="" coords="143,80,235,107"/>
+<area shape="rect" id="node8" href="$_split_8h.html" title=" " alt="" coords="259,80,338,107"/>
+<area shape="rect" id="node3" href="$main_8cpp.html" title="Main function." alt="" coords="141,155,237,181"/>
+<area shape="rect" id="node4" href="$_map_8cpp.html" title=" " alt="" coords="381,155,475,181"/>
+<area shape="rect" id="node6" href="$_reduce_8cpp.html" title=" " alt="" coords="5,155,117,181"/>
+<area shape="rect" id="node9" href="$_split_8cpp.html" title=" " alt="" coords="262,155,357,181"/>
+</map>
