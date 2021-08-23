@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.9.1"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>map_reduce: inc/Split.h Source File</title>
+<title>cv: inc/Split.h Source File</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -21,9 +21,9 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">map_reduce
+   <div id="projectname">cv
    </div>
-   <div id="projectbrief">otus hw11</div>
+   <div id="projectbrief">otus hw12</div>
   </td>
  </tr>
  </tbody>
@@ -75,8 +75,8 @@ $(function() {
 <div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="_task_8h.html">Task.h</a>&quot;</span></div>
 <div class="line"><a name="l00005"></a><span class="lineno"><a class="line" href="class_split.html">    5</a></span>&#160;<span class="keyword">class </span><a class="code" href="class_split.html">Split</a> {</div>
 <div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="keyword">public</span>:</div>
-<div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;    <a class="code" href="class_split.html">Split</a>(std::string fileName,std::size_t numThreads);</div>
-<div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;    std::vector&lt;FilePos&gt; <a class="code" href="class_split.html#aeedcfac42f83344ebe3bd81a97abb85a">Work</a>();</div>
+<div class="line"><a name="l00007"></a><span class="lineno"><a class="line" href="class_split.html#ae30a01d33f969722d9794b749f4614bb">    7</a></span>&#160;    <a class="code" href="class_split.html#ae30a01d33f969722d9794b749f4614bb">Split</a>(std::string fileName,std::size_t numThreads);</div>
+<div class="line"><a name="l00008"></a><span class="lineno"><a class="line" href="class_split.html#acdc492bc1bd8e27a266665ed51a025ce">    8</a></span>&#160;    std::vector&lt;FilePos&gt; <a class="code" href="class_split.html#acdc492bc1bd8e27a266665ed51a025ce">Work</a>();</div>
 <div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;<span class="keyword">private</span>:</div>
 <div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;    <a class="code" href="class_split.html">Split</a>()=<span class="keyword">delete</span>;</div>
 <div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;    std::vector&lt;FilePos&gt; GetSections(<span class="keywordtype">long</span> sectionSize,<span class="keywordtype">long</span> end_pos);</div>
@@ -86,7 +86,8 @@ $(function() {
 <div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;<span class="preprocessor">#endif</span></div>
 <div class="ttc" id="a_task_8h_html"><div class="ttname"><a href="_task_8h.html">Task.h</a></div></div>
 <div class="ttc" id="aclass_split_html"><div class="ttname"><a href="class_split.html">Split</a></div><div class="ttdoc">Class split file to numMaps sections.</div><div class="ttdef"><b>Definition:</b> Split.h:5</div></div>
-<div class="ttc" id="aclass_split_html_aeedcfac42f83344ebe3bd81a97abb85a"><div class="ttname"><a href="class_split.html#aeedcfac42f83344ebe3bd81a97abb85a">Split::Work</a></div><div class="ttdeci">std::vector&lt; FilePos &gt; Work()</div><div class="ttdef"><b>Definition:</b> Split.cpp:7</div></div>
+<div class="ttc" id="aclass_split_html_acdc492bc1bd8e27a266665ed51a025ce"><div class="ttname"><a href="class_split.html#acdc492bc1bd8e27a266665ed51a025ce">Split::Work</a></div><div class="ttdeci">std::vector&lt; FilePos &gt; Work()</div></div>
+<div class="ttc" id="aclass_split_html_ae30a01d33f969722d9794b749f4614bb"><div class="ttname"><a href="class_split.html#ae30a01d33f969722d9794b749f4614bb">Split::Split</a></div><div class="ttdeci">Split(std::string fileName, std::size_t numThreads)</div></div>
 </div><!-- fragment --></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>

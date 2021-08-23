@@ -1,9 +1,8 @@
 var searchData=
 [
-  ['targetdirectories_2etxt_48',['TargetDirectories.txt',['../_target_directories_8txt.html',1,'']]],
-  ['task_49',['Task',['../struct_task.html',1,'']]],
-  ['task_50',['task',['../struct_task.html#a21d4f1ee5badfdf6fbca1d7934bca17b',1,'Task']]],
-  ['task_2eh_51',['Task.h',['../_task_8h.html',1,'']]],
-  ['taskresult_52',['taskResult',['../struct_task.html#a563e393575ed3bae03758e3d2f525a6f',1,'Task']]],
-  ['test_2etxt_53',['test.txt',['../test_8txt.html',1,'']]]
+  ['read_5fcoef_46',['read_coef',['../helpers_8cpp.html#afc591c2e70d96ba4decc92fd1cd0dd42',1,'read_coef(std::istream &amp;stream, coef_t &amp;v):&#160;helpers.cpp'],['../helpers_8h.html#afc591c2e70d96ba4decc92fd1cd0dd42',1,'read_coef(std::istream &amp;stream, coef_t &amp;v):&#160;helpers.cpp']]],
+  ['read_5ffeatures_47',['read_features',['../helpers_8cpp.html#a96e416c0dc0eaa659abe7025156156b2',1,'read_features(std::istream &amp;stream, kdd99::BinaryClassifier::features_t &amp;features, size_t &amp;classif):&#160;helpers.cpp'],['../helpers_8h.html#a96e416c0dc0eaa659abe7025156156b2',1,'read_features(std::istream &amp;stream, kdd99::BinaryClassifier::features_t &amp;features, size_t &amp;classif):&#160;helpers.cpp']]],
+  ['readme_2emd_48',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
+  ['reduce_49',['Reduce',['../class_reduce.html',1,'Reduce'],['../class_reduce.html#a59ff9fa72bacc395698e04a78873f1b3',1,'Reduce::Reduce()']]],
+  ['reduce_2eh_50',['Reduce.h',['../_reduce_8h.html',1,'']]]
 ];

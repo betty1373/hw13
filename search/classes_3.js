@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['task_62',['Task',['../struct_task.html',1,'']]]
+  ['reduce_73',['Reduce',['../class_reduce.html',1,'']]]
 ];

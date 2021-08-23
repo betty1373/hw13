@@ -1,5 +1,9 @@
 var searchData=
 [
-  ['work_56',['Work',['../class_map.html#aa5d43329cf68d860702113cb6245c754',1,'Map::Work()'],['../class_reduce.html#aa61307fe1687c5dc84947bea6311d555',1,'Reduce::Work()'],['../class_shuffle.html#aa7ee391b88936b46edf5948eb1be608a',1,'Shuffle::Work()'],['../class_split.html#aeedcfac42f83344ebe3bd81a97abb85a',1,'Split::Work()']]],
-  ['work11_20_20map_5freduce_57',['work11  map_reduce',['../md__r_e_a_d_m_e.html',1,'']]]
+  ['targetdirectories_2etxt_59',['TargetDirectories.txt',['../_target_directories_8txt.html',1,'']]],
+  ['task_60',['Task',['../struct_task.html',1,'']]],
+  ['task_61',['task',['../struct_task.html#a21d4f1ee5badfdf6fbca1d7934bca17b',1,'Task']]],
+  ['task_2eh_62',['Task.h',['../_task_8h.html',1,'']]],
+  ['taskresult_63',['taskResult',['../struct_task.html#a563e393575ed3bae03758e3d2f525a6f',1,'Task']]],
+  ['test_2etxt_64',['test.txt',['../test_8txt.html',1,'']]]
 ];

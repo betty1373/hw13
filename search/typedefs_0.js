@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['filepos_104',['FilePos',['../_task_8h.html#a82082717c98b3afd4703c72fbe53fd01',1,'Task.h']]],
-  ['fnctoreduce_105',['fncToReduce',['../class_reduce.html#ad107c7689571ad86063e72b69fcf9565',1,'Reduce']]]
+  ['coef_5ft_127',['coef_t',['../classkdd99_1_1_logreg_classifier.html#a2d1b853d0bcade6f66f26a537d44e83d',1,'kdd99::LogregClassifier::coef_t()'],['../helpers_8h.html#ab8127f434ac213ac7bab9d8c4bced249',1,'coef_t():&#160;helpers.h']]]
 ];

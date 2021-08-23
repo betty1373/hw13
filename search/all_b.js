@@ -1,13 +1,6 @@
 var searchData=
 [
-  ['set_38',['set',['../_c_make_lists_8txt.html#aae40d498fcf9a58901e9d443c91454ca',1,'set(ENV{GITHUB_RUN_NUMBER} 1) endif() project(map_reduce VERSION 0.0. $ENV:&#160;CMakeLists.txt'],['../_c_make_lists_8txt.html#a9267ccdfbbaf6ba4f55c35f3a1f7fd90',1,'set(CPACK_PACKAGE_VERSION_MINOR &quot;${PROJECT_VERSION_MINOR}&quot;) set(CPACK_PACKAGE_VERSION_PATCH &quot;$:&#160;CMakeLists.txt']]],
-  ['set_5ftarget_5fproperties_39',['set_target_properties',['../_c_make_lists_8txt.html#af3ee545e0da1327d12106bc568c13336',1,'CMakeLists.txt']]],
-  ['shuffle_40',['Shuffle',['../class_shuffle.html',1,'']]],
-  ['shuffle_2eh_41',['Shuffle.h',['../_shuffle_8h.html',1,'']]],
-  ['split_42',['Split',['../class_split.html',1,'Split'],['../class_split.html#ae30a01d33f969722d9794b749f4614bb',1,'Split::Split()']]],
-  ['split_2ecpp_43',['Split.cpp',['../_split_8cpp.html',1,'']]],
-  ['split_2ecpp_2eo_2ed_44',['Split.cpp.o.d',['../_split_8cpp_8o_8d.html',1,'']]],
-  ['split_2eh_45',['Split.h',['../_split_8h.html',1,'']]],
-  ['stringify_46',['STRINGIFY',['../_c_make_c_compiler_id_8c.html#a43e1cad902b6477bec893cb6430bd6c8',1,'STRINGIFY():&#160;CMakeCCompilerId.c'],['../_c_make_c_x_x_compiler_id_8cpp.html#a43e1cad902b6477bec893cb6430bd6c8',1,'STRINGIFY():&#160;CMakeCXXCompilerId.cpp']]],
-  ['stringify_5fhelper_47',['STRINGIFY_HELPER',['../_c_make_c_compiler_id_8c.html#a2ae9b72bb13abaabfcf2ee0ba7d3fa1d',1,'STRINGIFY_HELPER():&#160;CMakeCCompilerId.c'],['../_c_make_c_x_x_compiler_id_8cpp.html#a2ae9b72bb13abaabfcf2ee0ba7d3fa1d',1,'STRINGIFY_HELPER():&#160;CMakeCXXCompilerId.cpp']]]
+  ['platform_5fid_43',['PLATFORM_ID',['../build_2_c_make_files_23_816_83_2_compiler_id_c_x_x_2_c_make_c_x_x_compiler_id_8cpp.html#adbc5372f40838899018fadbc89bd588b',1,'PLATFORM_ID():&#160;CMakeCXXCompilerId.cpp'],['../_c_make_c_compiler_id_8c.html#adbc5372f40838899018fadbc89bd588b',1,'PLATFORM_ID():&#160;CMakeCCompilerId.c'],['../_c_make_files_23_821_81_2_compiler_id_c_x_x_2_c_make_c_x_x_compiler_id_8cpp.html#adbc5372f40838899018fadbc89bd588b',1,'PLATFORM_ID():&#160;CMakeCXXCompilerId.cpp']]],
+  ['predict_5fproba_44',['predict_proba',['../classkdd99_1_1_binary_classifier.html#ab6ee6d037e87a893ff364d34391705c5',1,'kdd99::BinaryClassifier::predict_proba()'],['../classkdd99_1_1_logreg_classifier.html#a95be057b5283691edf9c6ce5c6093033',1,'kdd99::LogregClassifier::predict_proba()']]],
+  ['project_5fversion_5fpatch_45',['PROJECT_VERSION_PATCH',['../version_8h.html#a4a5fc96a4bdd7d68ed99ccce9ca2e77e',1,'version.h']]]
 ];

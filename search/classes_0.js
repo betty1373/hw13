@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['map_58',['Map',['../class_map.html',1,'']]]
+  ['binaryclassifier_70',['BinaryClassifier',['../classkdd99_1_1_binary_classifier.html',1,'kdd99']]]
 ];

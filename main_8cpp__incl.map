@@ -1,17 +1,13 @@
 <map id="src/main.cpp" name="src/main.cpp">
-<area shape="rect" id="node1" title="Main function." alt="" coords="353,5,449,32"/>
-<area shape="rect" id="node2" href="$_split_8h.html" title=" " alt="" coords="58,80,147,107"/>
-<area shape="rect" id="node10" href="$_shuffle_8h.html" title=" " alt="" coords="415,80,518,107"/>
-<area shape="rect" id="node12" href="$_map_8h.html" title=" " alt="" coords="172,80,260,107"/>
-<area shape="rect" id="node13" href="$_reduce_8h.html" title=" " alt="" coords="284,80,391,107"/>
-<area shape="rect" id="node14" title=" " alt="" coords="543,80,615,107"/>
-<area shape="rect" id="node15" title=" " alt="" coords="639,80,708,107"/>
-<area shape="rect" id="node3" href="$_task_8h.html" title=" " alt="" coords="247,155,308,181"/>
-<area shape="rect" id="node4" title=" " alt="" coords="5,229,72,256"/>
-<area shape="rect" id="node5" title=" " alt="" coords="97,229,175,256"/>
-<area shape="rect" id="node6" title=" " alt="" coords="199,229,267,256"/>
-<area shape="rect" id="node7" title=" " alt="" coords="292,229,351,256"/>
-<area shape="rect" id="node8" title=" " alt="" coords="375,229,433,256"/>
-<area shape="rect" id="node9" title=" " alt="" coords="458,229,515,256"/>
-<area shape="rect" id="node11" title=" " alt="" coords="429,155,504,181"/>
+<area shape="rect" id="node1" title="Main function. CV test." alt="" coords="394,5,490,32"/>
+<area shape="rect" id="node2" href="$logreg__classifier_8h.html" title=" " alt="" coords="5,80,161,107"/>
+<area shape="rect" id="node5" href="$helpers_8h.html" title="Helpers functions." alt="" coords="185,80,291,107"/>
+<area shape="rect" id="node7" title=" " alt="" coords="315,80,382,107"/>
+<area shape="rect" id="node8" title=" " alt="" coords="406,80,478,107"/>
+<area shape="rect" id="node9" title=" " alt="" coords="502,80,555,107"/>
+<area shape="rect" id="node10" title=" " alt="" coords="580,80,643,107"/>
+<area shape="rect" id="node11" title=" " alt="" coords="667,80,732,107"/>
+<area shape="rect" id="node3" href="$classifier_8h.html" title=" " alt="" coords="118,155,201,181"/>
+<area shape="rect" id="node4" title=" " alt="" coords="130,229,189,256"/>
+<area shape="rect" id="node6" title=" " alt="" coords="276,155,341,181"/>
 </map>

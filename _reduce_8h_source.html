@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.9.1"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>map_reduce: inc/Reduce.h Source File</title>
+<title>cv: inc/Reduce.h Source File</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -21,9 +21,9 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">map_reduce
+   <div id="projectname">cv
    </div>
-   <div id="projectbrief">otus hw11</div>
+   <div id="projectbrief">otus hw12</div>
   </td>
  </tr>
  </tbody>
@@ -78,7 +78,7 @@ $(function() {
 <div class="line"><a name="l00007"></a><span class="lineno"><a class="line" href="class_reduce.html#ad107c7689571ad86063e72b69fcf9565">    7</a></span>&#160;    <span class="keyword">using</span> <a class="code" href="class_reduce.html#ad107c7689571ad86063e72b69fcf9565">fncToReduce</a> = std::function&lt;void(std::shared_ptr&lt;VectorStr&gt; &amp;data,</div>
 <div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;                                    std::shared_ptr&lt;std::ofstream&gt; out)&gt;;</div>
 <div class="line"><a name="l00009"></a><span class="lineno"><a class="line" href="class_reduce.html#a59ff9fa72bacc395698e04a78873f1b3">    9</a></span>&#160;    <a class="code" href="class_reduce.html#a59ff9fa72bacc395698e04a78873f1b3">Reduce</a>(<a class="code" href="_task_8h.html#a15212fc73ae32382d56f713e993a188a">VectorStr</a> data,std::size_t numThreads);</div>
-<div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;    <span class="keywordtype">void</span> <a class="code" href="class_reduce.html#aa61307fe1687c5dc84947bea6311d555">Work</a>(<a class="code" href="class_reduce.html#ad107c7689571ad86063e72b69fcf9565">fncToReduce</a> reduce_func);</div>
+<div class="line"><a name="l00010"></a><span class="lineno"><a class="line" href="class_reduce.html#aa61307fe1687c5dc84947bea6311d555">   10</a></span>&#160;    <span class="keywordtype">void</span> <a class="code" href="class_reduce.html#aa61307fe1687c5dc84947bea6311d555">Work</a>(<a class="code" href="class_reduce.html#ad107c7689571ad86063e72b69fcf9565">fncToReduce</a> reduce_func);</div>
 <div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;<span class="keyword">private</span>:</div>
 <div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;    <a class="code" href="class_reduce.html">Reduce</a>() =  <span class="keyword">delete</span>;</div>
 <div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;    <a class="code" href="_task_8h.html#a15212fc73ae32382d56f713e993a188a">VectorStr</a> m_data;</div>
@@ -89,7 +89,7 @@ $(function() {
 <div class="ttc" id="a_task_8h_html_a15212fc73ae32382d56f713e993a188a"><div class="ttname"><a href="_task_8h.html#a15212fc73ae32382d56f713e993a188a">VectorStr</a></div><div class="ttdeci">std::vector&lt; std::string &gt; VectorStr</div><div class="ttdef"><b>Definition:</b> Task.h:10</div></div>
 <div class="ttc" id="aclass_reduce_html"><div class="ttname"><a href="class_reduce.html">Reduce</a></div><div class="ttdoc">Class put to one sorted vector to reduceNums threads to find minimal prefix.</div><div class="ttdef"><b>Definition:</b> Reduce.h:5</div></div>
 <div class="ttc" id="aclass_reduce_html_a59ff9fa72bacc395698e04a78873f1b3"><div class="ttname"><a href="class_reduce.html#a59ff9fa72bacc395698e04a78873f1b3">Reduce::Reduce</a></div><div class="ttdeci">Reduce(VectorStr data, std::size_t numThreads)</div></div>
-<div class="ttc" id="aclass_reduce_html_aa61307fe1687c5dc84947bea6311d555"><div class="ttname"><a href="class_reduce.html#aa61307fe1687c5dc84947bea6311d555">Reduce::Work</a></div><div class="ttdeci">void Work(fncToReduce reduce_func)</div><div class="ttdef"><b>Definition:</b> Reduce.cpp:8</div></div>
+<div class="ttc" id="aclass_reduce_html_aa61307fe1687c5dc84947bea6311d555"><div class="ttname"><a href="class_reduce.html#aa61307fe1687c5dc84947bea6311d555">Reduce::Work</a></div><div class="ttdeci">void Work(fncToReduce reduce_func)</div></div>
 <div class="ttc" id="aclass_reduce_html_ad107c7689571ad86063e72b69fcf9565"><div class="ttname"><a href="class_reduce.html#ad107c7689571ad86063e72b69fcf9565">Reduce::fncToReduce</a></div><div class="ttdeci">std::function&lt; void(std::shared_ptr&lt; VectorStr &gt; &amp;data, std::shared_ptr&lt; std::ofstream &gt; out)&gt; fncToReduce</div><div class="ttdef"><b>Definition:</b> Reduce.h:8</div></div>
 </div><!-- fragment --></div><!-- contents -->
 <!-- start footer part -->

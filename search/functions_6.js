@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['work_96',['Work',['../class_map.html#aa5d43329cf68d860702113cb6245c754',1,'Map::Work()'],['../class_reduce.html#aa61307fe1687c5dc84947bea6311d555',1,'Reduce::Work()'],['../class_shuffle.html#aa7ee391b88936b46edf5948eb1be608a',1,'Shuffle::Work()'],['../class_split.html#aeedcfac42f83344ebe3bd81a97abb85a',1,'Split::Work()']]]
+  ['read_5fcoef_111',['read_coef',['../helpers_8cpp.html#afc591c2e70d96ba4decc92fd1cd0dd42',1,'read_coef(std::istream &amp;stream, coef_t &amp;v):&#160;helpers.cpp'],['../helpers_8h.html#afc591c2e70d96ba4decc92fd1cd0dd42',1,'read_coef(std::istream &amp;stream, coef_t &amp;v):&#160;helpers.cpp']]],
+  ['read_5ffeatures_112',['read_features',['../helpers_8cpp.html#a96e416c0dc0eaa659abe7025156156b2',1,'read_features(std::istream &amp;stream, kdd99::BinaryClassifier::features_t &amp;features, size_t &amp;classif):&#160;helpers.cpp'],['../helpers_8h.html#a96e416c0dc0eaa659abe7025156156b2',1,'read_features(std::istream &amp;stream, kdd99::BinaryClassifier::features_t &amp;features, size_t &amp;classif):&#160;helpers.cpp']]],
+  ['reduce_113',['Reduce',['../class_reduce.html#a59ff9fa72bacc395698e04a78873f1b3',1,'Reduce']]]
 ];
